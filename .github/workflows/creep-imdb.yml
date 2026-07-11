@@ -41,4 +41,4 @@ jobs:
           commit_message: Automated update
           # commit_options: '--no-verify --signoff'
           push_options: "--force"
-          file_pattern: "*.json"
+          # file_pattern: "*.json"
